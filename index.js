@@ -15,4 +15,5 @@ function johnLennonFacts(jl_facts){
     counter-=1;
     jl_new_arr.push(jl_facts[counter]+'!!!');
   }
+  return jl_new_arr;
 }
