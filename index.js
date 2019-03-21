@@ -13,6 +13,6 @@ function johnLennonFacts(jl_facts){
   counter=jl_facts.length;
   while(counter>0){
     counter-=1;
-    jl_new_arr.push()
+    jl_new_arr.push(jl_facts[counter]+'!!!');
   }
 }
