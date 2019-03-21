@@ -20,5 +20,7 @@ function johnLennonFacts(jl_facts){
 
 function iLoveTheBeatles(number){
   var new_arr=[];
-  dowhi
+  do{
+    
+  }while()
 }
