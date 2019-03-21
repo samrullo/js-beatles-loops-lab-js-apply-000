@@ -22,5 +22,6 @@ function iLoveTheBeatles(number){
   var new_arr=[];
   do{
     
-  }while();
+    number+=1;
+  }while(number<15);
 }
